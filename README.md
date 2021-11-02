@@ -3,8 +3,11 @@
 
 ## Exercise on Real Time Bus Tracker
 In this project, I have created a real-time bus tracker. It runs an animation of a marker representing all of the bus stops in between MIT and Harvard.
+## How to Run
+1. Downloads each file and store them into one folder.
+2. Open an empty browser and drag index.html into the browser.
 ## Roadmap
-I have set the marker move 2 seconds so it allows reader more time time to see each stop.
+I will update more stops and lines in the future.
 ## License
 MIT License
 
